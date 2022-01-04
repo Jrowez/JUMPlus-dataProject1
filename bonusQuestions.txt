@@ -1,0 +1,10 @@
+Possible Questions
+	Correlation between nationality and overall rating
+		are players from a certain country statistically better
+		average rating per country
+	ratio of right footers to left footers
+		how many lefties per righty
+	correlation between age and pay
+		average pay per age group
+	
+	
