@@ -1,7 +1,8 @@
-Possible Questions
+Possible Questions:
 	Correlation between nationality and overall rating
 		are players from a certain country statistically better
 		average rating per country
+		
 	correlation between age and pay
 		average pay per age group
 	
